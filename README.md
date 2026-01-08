@@ -4,7 +4,7 @@
 <h3 align="center">🐍 Python Developer | 🤖 ML Enthusiast | 💻 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Python+Developer;Machine+Learning+Learner;Building+Real+World+Projects;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Python+Developer;Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning" />
 </p>
 
 ---
