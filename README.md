@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 
-<h1 align="center">Hi!, I'm Saksham Gupta</h1>
+<h1 align="center">Hi !, I'm Saksham Gupta</h1>
 <h3 align="center">🐍 Python Developer | 🤖 ML Enthusiast | 💻 Problem Solver</h3>
 
 <p align="center">
@@ -11,10 +11,11 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Undergraduate student with a strong interest in **software development and applied technology**
-* 🐍 Actively working with **Python**, backend APIs, and databases
-* 🤖 Exploring **Machine Learning** through hands-on projects
-* 🧠 Believe in learning by building and improving through practice
+* 🎓 Undergraduate student focused on **software development and applied engineering**
+* 🐍 Strong foundation in **Python**, backend APIs, and databases
+* 🤖 Exploring **Machine Learning** through hands-on, project-based learning
+* ⚙️ Comfortable with **FastAPI, Flask, JWT authentication, and REST APIs**
+* 🧠 Learn by building, debugging, and iterating on real projects
 * 📍 Bengaluru, India
 
 ---
@@ -73,7 +74,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshammhere&theme=tokyonight" />
 </p>
-
 
 ---
 
