@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 
-<h1 align="center">Hi 👋, I'm Saksham Gupta</h1>
+<h1 align="center">Hi!, I'm Saksham Gupta</h1>
 <h3 align="center">🐍 Python Developer | 🤖 ML Enthusiast | 💻 Problem Solver</h3>
 
 <p align="center">
@@ -63,12 +63,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshammhere&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshammhere&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshammhere&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshammhere&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshammhere&theme=tokyonight" />
+</p>
+
 
 ---
 
