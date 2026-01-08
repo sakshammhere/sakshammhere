@@ -80,7 +80,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshammhere&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sakshammhere&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
