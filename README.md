@@ -85,6 +85,12 @@
 
 --- 
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshammhere&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
