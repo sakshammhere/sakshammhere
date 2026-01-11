@@ -62,26 +62,10 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshammhere&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshammhere&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshammhere&theme=tokyonight" />
-</p>
-
----
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&cache_seconds=86400)
 
 ## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshammhere&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
-</p>
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&cache_seconds=86400)
 
 --- 
 
