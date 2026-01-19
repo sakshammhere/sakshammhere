@@ -59,14 +59,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&cache_seconds=86400)
-
-## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&cache_seconds=86400)
-
 --- 
 
 ## 📈 Activity Graph
