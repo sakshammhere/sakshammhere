@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 
-<h1 align="center">Hi !, I'm Saksham Gupta</h1>
+<h1 align="center">Hi !, I'm Saksham</h1>
 <h3 align="center">🐍 Python Developer | 🤖 ML Enthusiast | 💻 Problem Solver</h3>
 
 <p align="center">
